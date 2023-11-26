@@ -66,4 +66,6 @@ This Java mini project is a simple billing system that combines JDBC (Java Datab
 - KAVIN T (Github Id:kavin_t)
 - SENGATHIRSOORIAN E T (Github Id:Sengathir24)
 - VISHAL K (Github Id:VISHALKAVIYARASU)
+- MURUGAVEL E(Github Id:Murugavel E)
+- SANJAY A C(Github Id:SanjayAC_2004)
 
