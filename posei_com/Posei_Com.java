@@ -15,6 +15,7 @@ public class Posei_Com {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new login().setVisible(true);
     }
     
 }
